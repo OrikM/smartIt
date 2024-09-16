@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smartIt/static/css/main.b9271374.css",
+    "main.js": "/smartIt/static/js/main.1fca7151.js",
+    "index.html": "/smartIt/index.html",
+    "main.b9271374.css.map": "/smartIt/static/css/main.b9271374.css.map",
+    "main.1fca7151.js.map": "/smartIt/static/js/main.1fca7151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9271374.css",
+    "static/js/main.1fca7151.js"
+  ]
+}
